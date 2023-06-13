@@ -1,0 +1,10 @@
+* universal-config
+
+Common Lisp library to provide a universal configuration layer.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Shinmera/universal-config.git   |
+| commit  | 956f69f  |
+| systems | universal-config |
+|---------+-------------------------------------------|
+
